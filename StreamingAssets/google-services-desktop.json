@@ -1,0 +1,37 @@
+{
+  "project_info": {
+    "project_number": "349714035264",
+    "firebase_url": "https://angrymemes-88a25-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "angrymemes-88a25",
+    "storage_bucket": "angrymemes-88a25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349714035264:ios:27dd0deaad66c40919e5a5",
+        "android_client_info": {
+          "package_name": "com.thelostsun.angrymemes"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtGNJfy6Ku2y2L6FoHqRFgyuUtL0u4MS4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349714035264-2upl0d34qcgidfpp9prab59lgnd296dd.apps.googleusercontent.com"
+        }
+      ]
+    }
+  ],
+  "configuration_version": "1"
+}
